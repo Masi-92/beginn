@@ -32,5 +32,19 @@ Here can you find my Image [image](maxresdefault.jpg)
 
 
 🔃  :man   muss  reissen:
-🦀  🐊
 
+
+🦀  
+
+
+🐊
+## chechboxes 
+- [X] Git und GitHub
+- [X] CSS 
+- [X] Html
+- [X] JavaScript
+ ## Tabele 
+ | Html | CSS |
+ | :---- | :--- |
+ | 4weeks | 6weeks |
+ | easy | easy |
