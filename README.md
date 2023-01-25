@@ -19,3 +19,16 @@ Here can you find my Image [image](maxresdefault.jpg)
 
 
 ⚖️
+
+🇻🇬
+
+✈️
+
+
+🚄
+
+
+🔝
+
+
+🔃
