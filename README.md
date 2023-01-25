@@ -7,3 +7,7 @@ Mehr info über git [klicken](htpp/ @#####)
 ![git-githup auf der unterricht](maxresdefault.jpg
 )
 Here can you find my Image [image](maxresdefault.jpg)
+:smile:
+:book:
+:try:
+:tree:
